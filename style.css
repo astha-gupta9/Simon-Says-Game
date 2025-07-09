@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+.container {
+    height: 360px;
+    width: 360px;
+    margin: auto;
+    display: grid;
+    grid-template-rows: repeat(2, 180px);
+    grid-template-columns: repeat(2, 180px);
+}
+
+.btn {
+    border: 6px solid black;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+    margin: auto;
+}
+
+.red {
+    background-color: lightcoral;
+}
+
+.green {
+    background-color: chartreuse;
+}
+
+.blue {
+    background-color: aqua;
+}
+
+.pink {
+    background-color:hotpink;
+}
+
+.flash {
+    background-color: white;
+}
+
+.flash-red {
+    background-color: red;
+}
