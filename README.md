@@ -1,4 +1,11 @@
 # Simon Says Game 🎮
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Game](https://img.shields.io/badge/Category-Game-blueviolet?style=flat)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=flat)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
 
 A fun, interactive memory game built using **HTML**, **CSS**, and **Vanilla JavaScript**.  
 It challenges users to remember and repeat an increasing sequence of colors as the levels progress.
